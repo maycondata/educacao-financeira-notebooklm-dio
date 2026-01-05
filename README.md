@@ -1,6 +1,6 @@
 # 💰 Educação Financeira Pessoal – Mini Guia de Estudo com IA
 
-Este repositório documenta um **mini guia de estudo sobre educação financeira pessoal**, desenvolvido com o apoio do **:contentReference[oaicite:0]{index=0}** como parte de um desafio educacional da DIO.
+Este repositório documenta um **mini guia de estudo sobre educação financeira pessoal**, desenvolvido com o apoio do **NotebookLM** como parte de um desafio educacional da DIO.
 
 O projeto utiliza **fontes abertas** e a IA como ferramenta de **aprendizagem ativa**, apoiando a organização do conhecimento, a síntese de informações e o pensamento crítico.
 
